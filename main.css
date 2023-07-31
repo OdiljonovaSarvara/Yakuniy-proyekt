@@ -1,0 +1,41 @@
+body{
+    background: radial-gradient(deepskyblue,white,pink,deepskyblue);
+}
+.col-md-12{
+    /*background: linear-gradient(900deg,pink,white);*/
+    height: 130px;
+}
+.c4{
+    position: relative;
+    left: 10px;
+    bottom: 100px;
+}
+.b1{
+    position: relative;
+    left: -1px;
+    top: 39px;
+}
+.b2{
+    position: relative;
+    left: 10px;
+    top: 39px;
+}
+.b3{
+    position: relative;
+    left: 357px;
+    bottom: -2px;
+}
+.cc4{
+    left: 40px;
+}
+.w1{
+     position: relative;
+     top: 50px;
+     left: 50px;
+}
+.w2{
+    position: relative;
+    top: 450px;
+    left: 80px;
+}
+
